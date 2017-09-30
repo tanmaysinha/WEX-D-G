@@ -21,5 +21,15 @@ Before you install the IBM Watson Explorer Content Edition application, get fami
 
 Uninstalling the application 
 •	Select the menu in the upper-right corner and select Uninstall to uninstall the application.
-## FAQ 
+
+## Known Issues
+ - Browser specific issues - please use FireFox or Chrome. 
+  - Some icons would not appear properly on IE11 and Safari.
+  - Admin Console may not appear on IE11.
+  - Help menu on Admin Console and Content Miner is not ready to link to the Knowledge Center.
+  - Miss spelled words may appear on the screen.
+
+# FAQ
+ - On Windows installation, the window to input the username/password for mounting the volume may not appear in front. 
+ - You may need to search if the screen is found behind the installer.  (Installation itself will be succeeded once you input the username/password, but may be confusing.)
 
