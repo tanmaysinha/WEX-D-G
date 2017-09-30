@@ -26,7 +26,7 @@ Before you install the IBM Watson Explorer Content Edition application, get fami
  - Browser specific issues - please use FireFox or Chrome. 
    - Some icons would not appear properly on IE11 and Safari.
    - Admin Console may not appear on IE11.
-   - Help menu on Admin Console and Content Miner is not ready to link to the Knowledge Center.
+ - Help menu on Admin Console and Content Miner is not ready to link to the Knowledge Center.
  - Miss spelled words may appear on the screen.
 
 # FAQ
