@@ -20,7 +20,6 @@ Before you install the IBM Watson Explorer Content Edition application, get fami
   - In this case, from the Apply menu, choose System Preferences, click Security & Privacy, then click General. In the General pane, click Open Anyway button. For details, see https://support.apple.com/kb/PH25088?locale=en_US.
 
 Uninstalling the application 
-•	Select the menu in the upper-right corner and select Uninstall to uninstall the application.
-
+•	Select the menu in the upper-right corner and select Uninstall to uninstall the application. Test text
 ## FAQ 
 
