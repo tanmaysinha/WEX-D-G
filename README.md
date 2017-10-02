@@ -1,7 +1,7 @@
 # WEX-D-G
 
 ## Abstract
-Before you install the IBM Watson Explorer Content Edition application, get familiar with the most important information related to the installation process.
+Before you install the IBM Watson Explorer Community Edition application, get familiar with the most important information related to the installation process.
 
 ## Supported versions
  - Windows:
