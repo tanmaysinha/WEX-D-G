@@ -1,7 +1,7 @@
 # WEX-D-G
 
 ## Abstract
-Before you install the IBM Watson Explorer Content Edition application, get familiar with the most important information related to the installation process.
+Before you install the IBM Watson Explorer Community Edition application, get familiar with the most important information related to the installation process.
 
 ## Supported versions
  - Windows:
@@ -19,9 +19,21 @@ Before you install the IBM Watson Explorer Content Edition application, get fami
 - If you are a Mac user, the following security warning is displayed when you launch the application: "IBM Watson Explorer Community Edition can't be opened because it is from an unidentified developer"
   - In this case, from the Apply menu, choose System Preferences, click Security & Privacy, then click General. In the General pane, click Open Anyway button. For details, see https://support.apple.com/kb/PH25088?locale=en_US.
 
-Uninstalling the application 
-•	Select the menu in the upper-right corner on Result and select Uninstall to uninstall the Docker Image and container.
-•       For mac users remove the IBM Watson Explorer app from the Applications folder.
-•       For Windows users go to control panel and uninstall IBM Watson Explorer.
-## FAQ 
+## Uninstalling the application
+ - Select the menu in the upper-right corner on Result and select Uninstall to uninstall the Docker Image and container.
+ - For mac users remove the IBM Watson Explorer app from the Applications folder.
+ - For Windows users go to control panel and uninstall IBM Watson Explorer.
 
+## Known Issues
+ - Browser specific issues - please use FireFox or Chrome. 
+   - Some icons would not appear properly on IE11 and Safari.
+   - Admin Console may not appear on IE11.
+ - Help menu on Admin Console and Content Miner is not ready to link to the Knowledge Center.
+ - Miss spelled words may appear on the screen.
+
+# FAQ
+ - On Windows installation, the window to input the username/password for mounting the volume may not appear in front. 
+
+   - ![](https://github.com/ibm-wex/WEX-D-G/blob/master/images/docker_msg_windows.png)
+
+ - You may need to search if the screen is found behind the installer.  (Installation itself will be succeeded once you input the username/password, but may be confusing.)
