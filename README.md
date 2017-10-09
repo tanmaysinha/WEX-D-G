@@ -1,5 +1,7 @@
 # WEX-D-G
 
+[![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/TryMe_Wex_Mac.png)](https://github.com/ibm-wex/WEX-D-G/tree/master/TechPreview/V12CE/mac)                                 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/TryMe_Wex_Windows.png)](https://github.com/ibm-wex/WEX-D-G/tree/master/TechPreview/V12CE/windows)
+
 ## Abstract
 Before you install the IBM Watson Explorer Community Edition application, get familiar with the most important information related to the installation process.
 
@@ -8,7 +10,7 @@ Before you install the IBM Watson Explorer Community Edition application, get fa
    - Windows 10
  - Mac:
    - OS X Yosemite 10.10.3, and later
-
+   
 ## Installing the application
 - If you use an older toolbox-based version of Docker, uninstall it before you install the application.
 - If you have other containers that run on your computer, stop them before you start the installation process of the application because your computer might have resource constraints.
