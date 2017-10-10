@@ -1,6 +1,6 @@
 # WEX-D-G
 
-[![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/TryMe_Wex_Mac.png)](https://github.com/ibm-wex/WEX-D-G/tree/master/TechPreview/V12CE/mac)                                 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/TryMe_Wex_Windows.png)](https://github.com/ibm-wex/WEX-D-G/tree/master/TechPreview/V12CE/windows)
+[![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/TryMe_Wex_Mac.png)](https://github.com/ibm-wex/WEX-D-G/releases/download/1.0.0/IBM.Watson.Explorer.CE-TP-1.0.0.dmg)                                 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/TryMe_Wex_Windows.png)](https://github.com/ibm-wex/WEX-D-G/releases/download/1.0.0/IBM.Watson.Explorer.CE-TP-1.0.0.exe)
 
 ## Abstract
 Before you install the IBM Watson Explorer Community Edition application, get familiar with the most important information related to the installation process.
