@@ -7,7 +7,7 @@
   },
   "win32-x64-prod": {
     "readme": "test",
-    "update": "https://raw.githubusercontent.com/ibm-wex/WEX-D-G/master/updates/win/test",
+    "update": "https://raw.githubusercontent.com/ibm-wex/WEX-D-G/master/updates/win/",
     "version": "2.0.1",
     "size": 74084,
     "filename": "IBM-Watson-Explorer-2.0.1-full.nupkg"
