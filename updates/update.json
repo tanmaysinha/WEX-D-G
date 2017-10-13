@@ -15,7 +15,7 @@
   "darwin-x64-prod": {
     "readme": "test",
     "update": "https://raw.githubusercontent.com/ibm-wex/WEX-D-G/master/updates/mac/release.json",
-    "install": "https://raw.githubusercontent.com/ibm-wex/WEX-D-G/master/updates/mac/IBM%20Watson%20Explorer-2.0.1.dmg.test",
+    "install": "https://raw.githubusercontent.com/ibm-wex/WEX-D-G/master/updates/mac/IBM%20Watson%20Explorer-2.0.1.dmg",
     "version": "2.0.1",
     "size": 68150,
     "filename": "IBM Watson Explorer-2.0.1.dmg"
