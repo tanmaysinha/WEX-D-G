@@ -11,6 +11,6 @@
 
  - For users who would like to look at the mounts on the terminal. Run the command `docker exec -it wex-d-g ls /mnt`.
 
- - For users using windows machine with AsureAD. When trying to mount a folder, the docker prompts for user credentials. Even after the user enters the password, as the password stored for the AzureAD account is not local, it will not succeed. This is a issue from Docker and Windows with Azure AD. The workarounds are provided here:
+ - For users using windows machine with AzureAD. When trying to mount a folder, the docker prompts for user credentials. Even after the user enters the password, as the password stored for the AzureAD account is not local, it will not succeed. This is a issue from Docker and Windows with Azure AD. The workarounds are provided here:
  https://github.com/docker/for-win/issues/257
  https://github.com/docker/for-win/issues/263
