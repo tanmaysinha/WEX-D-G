@@ -10,6 +10,12 @@
 ## Abstract
 Before you install the IBM Watson Explorer Community Edition application, get familiar with the most important information related to the installation process.
 
+## Feedback / Suggestions / Questions
+Please post to the dWAnswers Community with `wex` tag or `watson-explorer` tag at the following URL:
+* https://developer.ibm.com/answers/topics/wex/
+* https://developer.ibm.com/answers/topics/watson-explorer/
+
+
 ## Supported versions
 ### Windows:
    - Windows 10 Education
