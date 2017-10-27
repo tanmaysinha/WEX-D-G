@@ -1,18 +1,22 @@
-# WEX-D-G
+# Watson Explorer Community Edition
 
+<!--
 [![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/Download_Wex_Mac.png)](https://github.com/ibm-wex/WEX-D-G/releases/download/1.0.0/IBM.Watson.Explorer.CE-TP-1.0.0.dmg)                                 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/Download_Wex_Windows.png)](https://github.com/ibm-wex/WEX-D-G/releases/download/1.0.0/IBM.Watson.Explorer.CE-TP-1.0.0.exe)
-
+-->
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![alt tag](https://github.com/ibm-wex/WEX-D-G/blob/master/images/FAQs.png)](https://github.com/ibm-wex/WEX-D-G/blob/master/Faq.md) 
-
+-->
 
 ## Abstract
 Before you install the IBM Watson Explorer Community Edition application, get familiar with the most important information related to the installation process.
 
 ## Supported versions
- - Windows:
-   - Windows 10
- - Mac:
-   - OS X Yosemite 10.10.3, and later
+### Windows:
+   - Windows 10 Education
+   - Windows 10 Enterprise
+   - Windows 10 Pro
+### Mac:
+   - Mac OS X 10.10.3 or later
    
 ## Installing the application
 - If you use an older toolbox-based version of Docker, uninstall it before you install the application.
@@ -29,9 +33,13 @@ Before you install the IBM Watson Explorer Community Edition application, get fa
   - For mac users remove the IBM Watson Explorer app from the Applications folder.
   - For Windows users go to control panel and uninstall IBM Watson Explorer.
 
-## Known Issues
- - Browser specific issues - please use FireFox or Chrome. 
-   - Some icons would not appear properly on IE11 and Safari.
-   - Admin Console may not appear on IE11.
- - Help menu on Admin Console and Content Miner is not ready to link to the Knowledge Center.
- - Miss spelled words may appear on the screen.
+## Known Issues / Limitations
+- Multiple dictionary annotators do not work with a single collection. If you want to apply multiple dictionaries, create a dictionary annotator that includes multiple dictionaries.
+- When creating a new model for a classifier and cancelling the creation during Creating datasets status in either Content Miner or Admin Console, the status may not be changed although the process has been actually cancelled in the system.
+- Facet highlighting is partially supported. The text will be highlighted when the exact same facet value string is specified as the facet refinement query. For example, query _'facet:"positive expression"'_ does not highlight _'good product'_ in the document text.
+- Facet counting for numeric or date facets in the custom analysis view is not supported in Content Miner.
+
+### Browser specific issues - please use Chrome or any other tested browsers
+* Safari on Mac is not a supported browser.
+* Pop-up error with _"ReferenceError: 'URLSearchParms' is undefined"_ appears on Microsoft Internet Explorer 11 and Microsoft Edge when trying to create a new classifier in Admin Console.
+* Some UI elements are not correctly rendered in Admin Console with Microsoft Internet Explorer 11.
